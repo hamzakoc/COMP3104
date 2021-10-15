@@ -21,9 +21,8 @@
   "bugs": {
     "url": "https://github.com/hamzakoc/COMP3104/issues"
   },
-  "homepage": "https://github.com/hamzakoc/COMP3104#readme",
+  "homepage": "https://hamzakoc.github.io/COMP3104",
   "dependencies": {
-    "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5",
@@ -38,5 +37,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }
